@@ -1,8 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&lines=Hi+👋+I'm+Hitanshu+Khandelwal;Full+Stack+Engineer+%7C+AI+Builder;Production-Scale+Systems" alt="Typing Animation" />
-</h1>
+<h1 align="center">👋 Hi, I'm Hitanshu Khandelwal</h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Engineer | 📐 System Design Expert</h3>
+<h2 align="center">
+  🚀 <b>Full Stack Engineer</b> | 🤖 <b>AI Builder</b> | 📐 <b>System Design Expert</b>
+</h2>
+
+<h3 align="center">
+  <i>Building Production-Scale Systems | Scaling from 1 → 1M Users</i>
+</h3>
 
 <p align="center">
   <a href="mailto:hitanshu212003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JAYESHBATRA&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HitanshuDev&color=blueviolet" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/HitanshuDev?style=social" alt="GitHub Followers" />
 </p>
 
