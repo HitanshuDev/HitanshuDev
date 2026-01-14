@@ -111,46 +111,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-### 🎓 **AlgoKeep — DSA Notes Manager**
-*Full-Stack Application | Production Deployed | AWS + Docker*
-
-A comprehensive platform for managing algorithmic notes with **JWT authentication**, **memoized filtering**, and **production-grade deployment**.
-
-**Key Metrics:**
-- 📈 Handles **1000+ notes** with sub-100ms filtering
-- 🔒 Secure user authentication with bcrypt & JWT
-- 🚀 Deployed on AWS EC2 with Nginx reverse proxy & HTTPS
-- 📱 Fully responsive design (Mobile, Tablet, Desktop)
-
-**Tech Stack:** Next.js 16 • TypeScript • Redux Toolkit • Reselect • Tailwind • Node.js • MongoDB • Docker • AWS
-
-**Highlights:**
-- ✅ Redux with memoized selectors for O(1) filtering performance
-- ✅ Hot-reload development environment with Docker
-- ✅ Private database networking with public-facing API
-- ✅ Custom domain with SSL/TLS encryption
-- ✅ Complete CI/CD-ready architecture
-
-**🔗 [Live Demo](https://algokeep.hitanshukhandelwal.com)** | **📖 [Full Documentation](./algokeep_improved.md)** | **💾 [Source Code](https://github.com/HitanshuDev)**
-
----
-
-### 🤖 **AI-Powered Resume Chatbot**
-*AI Agent | LLM Integration | Intelligent Conversation*
-
-Context-aware chatbot that intelligently answers questions about resumes using advanced AI agents and LLM capabilities.
-
-**Key Features:**
-- 🧠 Multi-turn conversation with context awareness
-- 📄 Smart document understanding and retrieval
-- 💬 GPT-4 powered intelligent responses
-- 🎯 Accurate information extraction
-
-**Tech Stack:** OpenAI Agents SDK • Python • LangGraph • CrewAI • Document Processing
-
----
 
 ## 🧠 Core Competencies
 
@@ -207,28 +167,6 @@ Context-aware chatbot that intelligently answers questions about resumes using a
 - 🔒 Writing clean, maintainable, production-ready code
 - 🌍 Contributing to open-source & tech communities
 - 📊 Optimizing performance & driving metrics
-
----
-
-## 🌟 Additional Expertise
-
-### Performance Optimization
-- ✨ Frontend: Code splitting, memoization, lazy loading, tree-shaking
-- ⚡ Backend: Query optimization, indexing, caching strategies
-- 🗄️ Database: Denormalization, sharding, read replicas
-
-### Security Best Practices
-- 🔐 Authentication & Authorization (JWT, OAuth)
-- 🛡️ Password hashing & encryption (bcrypt, argon2)
-- 🔒 HTTPS & SSL/TLS certificate management
-- 🚨 Input validation & SQL injection prevention
-- 📋 OWASP top 10 vulnerabilities
-
-### Testing & Quality Assurance
-- ✅ Unit Testing (Jest, Vitest)
-- 📊 Integration Testing
-- 🎯 End-to-End Testing
-- 🐛 Debugging & Monitoring
 
 ---
 
