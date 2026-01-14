@@ -23,8 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HitanshuDev&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/HitanshuDev?style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=JAYESHBATRA&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
